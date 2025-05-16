@@ -1,2 +1,3 @@
-# learning-bash-scripting
-The repository for the course Learning Bash Scripting
+# Learning Bash Scripting
+
+The repository for the LinkedIn Learning course _Learning Bash Scripting_.
