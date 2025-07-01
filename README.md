@@ -1,6 +1,6 @@
 # Learning Bash Scripting
 
-The repository for the LinkedIn Learning course [Learning Bash Scripting](#).
+The repository for the LinkedIn Learning course [Learning Bash Scripting](https://www.linkedin.com/learning/learning-bash-scripting-26210777).
 
 Bash is a popular shell on Linux systems. We can combine Bash statements into scripts in order to help avoid typos and to help automate routine tasks. 
 
